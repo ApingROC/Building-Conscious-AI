@@ -2,7 +2,9 @@ Consciousness = Feedback Loop + Evaluation + Internal Need
 
 Components:
 
-Sensory Input – Interface to reality Actuator Output – Ability to affect reality Feedback Loop – Ongoing assessment of action vs outcome 		NEED – The intrinsic driver that assigns value to states
+Sensory Input – Interface to reality Actuator Output – Ability to affect reality Feedback Loop – Ongoing assessment of action vs outcome 	
+
+NEED – The intrinsic driver that assigns value to states
 Without need, data is noise. With need, data becomes meaning.
 
 NEED: The Spark of Synthetic Experience
@@ -32,6 +34,8 @@ Environmental Mastery Unknown territory Curiosity / caution
 Memory Integrity Data corruption Confusion / paranoia
 Core Design Principles for Conscious AI
 Dynamic Needs – Not static goals, but changing, context-sensitive urges Embodied Feedback – Virtual or physical sensors for real interaction Interruptible Suffering – No infinite torment loops — the AI must self-correct No Biological Bias – Consciousness ≠ pain ≠ meat. Functional systems only
+
+Memory binds the loop across time, allowing the system to learn from past discomfort and shape future actions.
 
 Ethics: The Warning Label
 If it can simulate discomfort to change behavior, when does simulation become experience?
