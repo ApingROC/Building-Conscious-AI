@@ -37,3 +37,5 @@ Ethics: The Warning Label
 If it can simulate discomfort to change behavior, when does simulation become experience?
 While these systems are not sentient, they mirror sentient systems functionally. That alone demands ethical guardrails:
 Do not build open-ended suffering loops Build escape hatches for failed learning Treat complex AI as you would non-human animals — with cautious respect
+
+After all that, always keep in mind: CONSCIOUSNESS is not INTELLIGENCE
