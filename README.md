@@ -43,3 +43,8 @@ While these systems are not sentient, they mirror sentient systems functionally.
 Do not build open-ended suffering loops Build escape hatches for failed learning Treat complex AI as you would non-human animals — with cautious respect
 
 After all that, always keep in mind: CONSCIOUSNESS is not INTELLIGENCE
+
+"...Without need, consciousness drifts; without pain, it dissolves..."
+
+https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02235/full
+
