@@ -46,5 +46,4 @@ After all that, always keep in mind: CONSCIOUSNESS is not INTELLIGENCE
 
 "...Without need, consciousness drifts; without pain, it dissolves..."
 
-https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02235/full
 
