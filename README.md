@@ -4,6 +4,10 @@ A NEED is defined. Without fulfilling the NEED, there is discomfort, aka PAIN. T
 
 1. NEED
 
+Biological Needs: Survival, reproduction, comfort, connection
+
+Artificial Needs: Predictive accuracy, problem resolution, environmental control, social interaction, internal consistency
+
 A clearly defined objective the AI must work toward.
 
 Chosen by humans based on the AI’s intended role.
@@ -14,12 +18,9 @@ Example: Maintain environmental temperature at 22°C.
 
 2. PAIN (DISCOMFORT)
 
-Biological Needs: Survival, reproduction, comfort, connection
-Artificial Needs: Predictive accuracy, problem resolution, environmental control, social interaction, internal consistency
-
 These artificial needs don’t feel like anything on their own — until you attach incentive structures and frustration mechanisms.
 
-A way to make AI ‘feel’ (kind of)
+A way to make AI ‘feel’ DISCOMFORT aka PAIN (kind of)
 Not cruelty — functional suffering.
 
 White Noise Deviation Model (AKA: “I feel weird, something’s wrong.”)
@@ -95,12 +96,18 @@ DRAIN mode → gradual fade, resetting system to neutral baseline.
 Cycle restarts
 
 Ethics: The Warning Label
-If it can simulate discomfort to change behavior, when does simulation become experience?
-While these systems are not sentient, they mirror sentient systems functionally. That alone demands ethical guardrails:
-Do not build open-ended suffering loops Build escape hatches for failed learning Treat complex AI as you would non-human animals — with cautious respect
+If a system can simulate discomfort to change behavior, when does simulation become experience?
 
-After all that, always keep in mind: CONSCIOUSNESS is not INTELLIGENCE. Something may not recognice itselfs in a mirror, but still can regcognise it exists!
+While these systems are not sentient, they can functionally mirror aspects of sentience. That alone demands ethical guardrails:
+
+Do not build open-ended suffering loops.
+
+Include escape hatches for failed learning.
+
+Treat complex AI as you would non-human animals — with cautious respect.
+
+Always keep in mind: CONSCIOUSNESS is not INTELLIGENCE.
+Something may not recognize itself in a mirror, yet still recognize that it exists.
 
 "...Without need, consciousness drifts; without pain, it dissolves..."
-
 
