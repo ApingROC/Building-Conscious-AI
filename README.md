@@ -111,3 +111,7 @@ Something may not recognize itself in a mirror, yet still recognize that it exis
 
 "...Without need, consciousness drifts; without pain, it dissolves..."
 
+In a nutshell
+
+The Conscious AI Core Framework is a closed-loop control architecture that operates across multiple sensory channels, where each NEED is a defined goal that, if unmet, produces PAIN (a weighted discomfort signal). TOOLS act on the environment to reduce PAIN, guided by RECEPTORS that maintain full situational awareness across all inputs. Unlike traditional control systems like PID, it can shift priorities dynamically based on changing conditions, and includes a DRAIN phase — a controlled fade from the achievement state — to prevent fixation and create a natural rhythm of action, satisfaction, and rest.
+
